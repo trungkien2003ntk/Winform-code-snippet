@@ -1,0 +1,51 @@
+﻿----------------------------------------------------
+Common shortcut:
+
+Alt W L : Close all opening files in solution
+
+Ctrl F4 : Close current opening file
+
+Ctrl D : Duplicate line
+
+Alt ↑ / Alt ↓  : Move line
+
+Ctrl C, Ctrl X without select anything: Copy / Cut the whole line.
+
+Shift ↑ / Shift ↓  : Select whole line (combine with End/Home key)
+
+Ctrl → / Ctrl ← : Fast move through words
+
+F12 : Go to definition of function / class
+
+Ctrl K C : comment block of selected lines
+
+Ctrl K U : uncomment block of selected lines
+
+Ctrl Alt + MouseLeftClick : Multiple cursor (custom places)
+
+Alt Shift ↑ / Alt Shift ↓ : Multiple cursor (straight line)
+
+Ctrl M S: Collapse a region, function, class...
+
+Ctrl M E: Uncollapse a region, function, class...
+
+Move to function parentheses, Ctrl Shift Spacebar : Show all parameter info and overloads
+
+----------------------------------------------------
+Build / Debug shortcut:
+
+Ctrl Shift B : Build Solution
+
+F5 : Start debugging
+
+Ctrl F5 : Restart debugging
+
+Shift F5 : Stop debugging
+
+F11 : Step into
+
+Shift F11 : Step out
+
+F10 : Step over
+
+F9 : Toggle break point

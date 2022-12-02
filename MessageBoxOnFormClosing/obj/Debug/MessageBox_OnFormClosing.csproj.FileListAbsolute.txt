@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\bin\Debug\MessageBox_OnFormClosing.exe.config
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\bin\Debug\MessageBox_OnFormClosing.exe
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\bin\Debug\MessageBox_OnFormClosing.pdb
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBox_OnFormClosing.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBox_OnFormClosing.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBoxOnFormClosing.Form1.resources
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBox_OnFormClosing.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBox_OnFormClosing.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBox_OnFormClosing.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBox_OnFormClosing.exe
+C:\Users\ADMIN\source\repos\Winform Code Snippet\MessageBoxOnFormClosing\obj\Debug\MessageBox_OnFormClosing.pdb

@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\bin\Debug\Smooth_Painting.exe.config
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\bin\Debug\Smooth_Painting.exe
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\bin\Debug\Smooth_Painting.pdb
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.Form1.resources
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.exe
+C:\Users\ADMIN\source\repos\Winform Code Snippet\Smooth_Painting\obj\Debug\Smooth_Painting.pdb

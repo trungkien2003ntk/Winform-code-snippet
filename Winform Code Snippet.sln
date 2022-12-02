@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBox_OnFormClosing", "MessageBoxOnFormClosing\MessageBox_OnFormClosing.csproj", "{B8938926-B00D-49A1-8C17-2F33B0CFBEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smooth_Painting", "Smooth_Painting\Smooth_Painting.csproj", "{D542D6A0-F0B7-463D-A9A6-E5B2C74409E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{88759AF0-7EA3-467C-B4E2-FB6FF0021644}"
+	ProjectSection(SolutionItems) = preProject
+		VisualStudioHotKeys.txt = VisualStudioHotKeys.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8938926-B00D-49A1-8C17-2F33B0CFBEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8938926-B00D-49A1-8C17-2F33B0CFBEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8938926-B00D-49A1-8C17-2F33B0CFBEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8938926-B00D-49A1-8C17-2F33B0CFBEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D542D6A0-F0B7-463D-A9A6-E5B2C74409E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D542D6A0-F0B7-463D-A9A6-E5B2C74409E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D542D6A0-F0B7-463D-A9A6-E5B2C74409E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D542D6A0-F0B7-463D-A9A6-E5B2C74409E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5154B09A-D2D7-42DC-8757-9A4B873B72F9}
+	EndGlobalSection
+EndGlobal
