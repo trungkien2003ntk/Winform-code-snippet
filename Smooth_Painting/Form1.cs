@@ -90,7 +90,7 @@ namespace Smooth_Painting
             EnableDoubleBuffered(panel1);
 
             EnableDoubleBuffered(pictureBox1);
-        }
+        } 
 
         private void EnableDoubleBuffered<T>(T control)
         {
